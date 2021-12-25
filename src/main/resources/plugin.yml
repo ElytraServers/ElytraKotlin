@@ -1,0 +1,10 @@
+name: ElytraKotlin
+version: '${project.version}'
+main: cn.elytra.kotlin.ElytraKotlinPlugin
+api-version: 1.16
+commands:
+  kotlin:
+    permission: op
+    description: "Check Kotlin version"
+    permission-message: "You don't have permission!"
+    usage: "/kotlin"
