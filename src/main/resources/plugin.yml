@@ -2,6 +2,7 @@ name: ElytraKotlin
 version: '${project.version}'
 main: cn.elytra.kotlin.ElytraKotlinPlugin
 api-version: 1.16
+website: 'https://github.com/ElytraServers/ElytraKotlin'
 commands:
   kotlin:
     permission: op
